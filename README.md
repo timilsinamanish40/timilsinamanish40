@@ -11,4 +11,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timilsinamanish40&" alt="timilsinamanish40" /></p>
 
-<div align center>[![An image of @manishtimilsina22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manishtimilsina22)](https://holopin.io/@manishtimilsina22) </div>div>
+<div align center>[![An image of @manishtimilsina22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manishtimilsina22)](https://holopin.io/@manishtimilsina22) </div>
